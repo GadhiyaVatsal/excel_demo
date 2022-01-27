@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687685095402",
+    "project_id": "diamond-24a82",
+    "storage_bucket": "diamond-24a82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687685095402:android:898cd2953730a89875ec93",
+        "android_client_info": {
+          "package_name": "com.vatsal.excel_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687685095402-6btr3lhlmh66qgkbjdcsmgufpn4lpki7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vatsal.excel_demo",
+            "certificate_hash": "83dccdded33e2380ac68fb1a1cf3c02c5080abd1"
+          }
+        },
+        {
+          "client_id": "687685095402-j4bea0ieric3tskev4ju8lr4jjmnhdth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAze5nQzXySMJvb3V9Kt7A5x4KnVu30w58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687685095402-j4bea0ieric3tskev4ju8lr4jjmnhdth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
